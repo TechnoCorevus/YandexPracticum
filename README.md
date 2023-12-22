@@ -29,35 +29,6 @@ Here are some ideas to get you started:
   <td>Завершен</td>
 </table>
 
-# Самостоятельные проекты:
-
-## Kaggle:
-<table>
-<tr>
-  <th>Название проекта</th>
-  <th>Источник проекта</th>
-  <th>Описание</th>
-  <th>Статус проекта</th>
-<tr>
-  <td><a href = "https://www.kaggle.com/c/titanic">Titanic - Machine Learning from Disaster(1 try)</a></td>
-  <td>Kaggle</td>
-  <td>Найти взаимосвзяь между данными, ответить для себя какие факторы влияют на целевой признак. Построить модель предсказания и дать небольшую визуализацию.</td>
-  <td>accuracy = 0.801</td>
-</table>
-
-## Пробные задания
-<table>
-<tr>
-  <th>Название проекта</th>
-  <th>Источник проекта</th>
-  <th>Описание</th>
-  <th>Статус проекта</th>
-<tr>
-  <td><a href = "https://github.com/sxemixa/banks_EDA-NLP-">Banks EDA (NLP)</a></td>
-  <td>Сбербанк</td>
-  <td>Необходимо провести EDA анализ банков, ответить на поставленные вопросы бизнеса, сделать соответствующие выводы.</td>
-  <td>Завершен</td>
-</table>
 
 # Учебные проекты:
 ## Курсовые работы:
