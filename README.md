@@ -14,14 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # Мое резюме:
-- [Резюме](https://github.com/sxemixa/sxemixa/blob/main/%D0%A5%D0%B0%D1%81%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB.pdf)
+- [Резюме](https://github.com/TechnoCorevus/YandexPracticum/blob/main/Mikhalev%20Sergey.pdf)
 
-# Сертификаты:
- - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/sxemixa/MyResume/blob/main/%D0%A5%D0%B0%D1%81%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%9C.%D0%90..pdf)/[EN](https://github.com/sxemixa/MyResume/blob/main/Khasanov%20M.A..pdf)
 
-# Хакатоны:
- - [AgroCode Hack 2022](https://github.com/sxemixa/sxemixa/blob/main/AgroHack%202022.pdf)
- 
 # Курсы:
 <table>
 <tr>
