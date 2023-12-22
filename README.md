@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td><a href = "hhttps://github.com/TechnoCorevus/YandexPracticum/blob/main/regression/project_8_choosing_the_location_for_the_well.ipynbn">Выбор локации для скважины</a></td>
+  <td><a href = "https://github.com/TechnoCorevus/YandexPracticum/blob/main/regression/project_8_choosing_the_location_for_the_well.ipynbn">Выбор локации для скважины</a></td>
   <td>Яндекс.Практикум</td>
   <td>Нужно решить, где бурить новую нефтяную скважину для получения наибольшей прибыли</td>
   <td>Завершен</td>
