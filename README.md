@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-    <td><a href = "https://github.com/TechnoCorevus/YandexPracticum/blob/main/classification/project_4_GoFast.ipynb">Определение прибыльности тарифов</a></td>
+    <td><a href = "https://github.com/TechnoCorevus/YandexPracticum/blob/main/analytics/project_4_GoFast.ipynb">Определение прибыльности тарифов</a></td>
   <td>Яндекс.Практикум</td>
   <td>Необходимо  сравнить поведение пользователей с подпиской и пользователей без подписки на популярный сервис аренды самокатов "GoFast"</td>
   <td>Завершен</td>
