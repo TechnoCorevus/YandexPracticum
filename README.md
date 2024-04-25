@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <th>Статус проекта</th>
 </tr> 
 <tr>
-    <td><a </a></td>
+    <td><a href = "https://github.com/TechnoCorevus/YandexPracticum/blob/main/regression/ford_vin_regex.ipynb"</a>Использование регулярных выражений</td>
   <td>Яндекс.Практикум</td>
   <td>Обработка данных (VIN-кодов автомобилей) с помощью регулярных выражений и дальнешее построение модели с предсказанием цены на автомобили на основе обработаннх данных. </td>
   <td>Завершен</td>
