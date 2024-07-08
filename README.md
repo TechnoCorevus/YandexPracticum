@@ -158,7 +158,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td><a href = "https://github.com/TechnoCorevus/YandexPracticum/blob/main/regression/Steel.ipynb">Прогнозирование заказов таксти</a></td>
+  <td><a href = "https://github.com/TechnoCorevus/YandexPracticum/blob/main/regression/Steel.ipynb">Уменьшение потребления электроэнергии на этапе обработки стали</a></td>
   <td>Яндекс.Практикум</td>
   <td>Чтобы оптимизировать производственные расходы, металлургический комбинат «Стальная птица» решил уменьшить потребление электроэнергии на этапе обработки стали. Для этого комбинату нужно контролировать температуру сплава. Ваша задача — построить модель, которая будет её предсказывать.
 
